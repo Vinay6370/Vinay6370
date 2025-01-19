@@ -1,5 +1,14 @@
-# 💫 About Me:
-👋 Hi, I’m Vinay Gupta!<br><br>🔧 Software Developer | Data Scientist in the Making | Deep Learning Enthusiast<br>💡 "Gain Practical Experience More than Theoretical."<br><br>🎓 Final-year Computer Science Engineering student passionate about using technology to solve real-world problems.<br>💻 Skilled in Python, Java, SQL, and tools like Power BI and Tableau, with growing expertise in data science, machine learning, and deep learning.<br>🌱 Currently expanding my knowledge in neural networks, computer vision, and natural language processing (NLP) to build smarter and scalable AI solutions.<br>📂 My notable repositories:<br><br>COVID-19 Analysis using ML: A machine learning and data visualization project that provides a comprehensive analysis of COVID-19 trends.<br><br>Flappy Bird Game: A Java-based interactive game showcasing object-oriented programming and design.<br><br>University Database Management System: A complete project implementing advanced database functionalities like triggers, procedures, and schema design using Oracle.<br><br>HR Analytics Dashboard (Power BI): A user-friendly dashboard visualizing key HR metrics and trends for better decision-making.<br><br>Road Accident Severity Dashboard (Tableau): A data storytelling project providing insights into road accident severity patterns using Tableau.<br><br>Fitness Tracker App: A Java Swing-based application that applies OOP principles for tracking health and fitness data.<br><br>🌟 Passionate about creating impactful projects by combining data science, deep learning, and software development to drive innovation.<br><br>🚀 Open to collaborations in AI/ML, data analytics, and full-stack development.<br><br>💬 Let’s connect and build something amazing together:<br>📧 Email: vinaygupta63708@gmail.com<br>🔗 LinkedIn: Vinay Kumar Gupta
+👋 Hi, I’m Vinay Gupta!
+🔧 Software Developer | Data Science & Deep Learning Enthusiast
+
+🎓 Final-year Computer Science Engineering student skilled in Python, Java, SQL, and tools like Power BI and Tableau. Passionate about data science, machine learning, and building impactful solutions.
+
+📂 Notable Projects:
+
+COVID-19 Analysis with ML
+HR & Accident Analytics Dashboards (Power BI/Tableau)
+University DBMS (Oracle)
+Java Fitness Tracker App
 
 
 ## 🌐 Socials:
